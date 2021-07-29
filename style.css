@@ -1,6 +1,33 @@
 /* google font */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
 /* font-family */
+/* custom css */
 body{
     font-family: 'Poppins', sans-serif;
 }
+.header-section{
+    background-color:#264653;
+}
+.button-click{
+    background-color:#E76F51;
+}
+.button-click:hover{
+    background-color:#E76F51;
+    color: #fff;
+}
+.banner-details p{
+    color: #E0E0E0;
+}
+.Fetured-section{
+    background-color:#fafafa;
+}
+.Fetured-section small{
+    color: #E76F51;
+}
+.bike-cb{
+    mix-blend-mode: luminosity;
+}
+.client-say{
+    color: #E76F51;
+}
+/* css */
