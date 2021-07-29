@@ -5,7 +5,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.header-section{
+.header-section, .nav-top{
     background-color:#264653;
 }
 .button-click{
@@ -30,4 +30,4 @@ body{
 .client-say{
     color: #E76F51;
 }
-/* css */
+
